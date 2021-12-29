@@ -2,7 +2,7 @@
 title: "Modèles de durée"
 collection: teaching
 type: "MOOC"
-permalink: /teaching/Modèles-de-durée
+permalink: /teaching/Modeeles-de-duree
 venue: "Fun-MOOC
 date: 2019-10-01
 location: "Online"
