@@ -3,7 +3,7 @@ title: "Modeles de duree"
 collection: teaching
 type: "MOOC"
 permalink: /teaching/Modeles-de-duree
-venue: "Fun-MOOC
+venue: "Fun-MOOC"
 date: 2019-10-01
 location: "Online"
 ---
