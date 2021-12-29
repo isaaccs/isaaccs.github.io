@@ -12,4 +12,4 @@ In 2019 and 2020.
 Understand the main issues (methodological, commercial, regulatory) related to the use of data science in actuarial science.
 
 Practical Work on Python , [Scikit-Learn](https://scikit-learn.org
-)) and [Keras](keras.io).
+) and [Keras](keras.io).
