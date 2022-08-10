@@ -255,8 +255,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
