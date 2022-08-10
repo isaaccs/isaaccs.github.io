@@ -30,11 +30,11 @@ Work experience
 dataset containing structured and unstructured data
   * Creating a Graphic tool to interpret Grid Search and Model results (on Plotly)
 
-  * September 2016 - February 2017: P&C Actuarial Science, Pacifica (CAA)
+* September 2016 - February 2017: P&C Actuarial Science, Pacifica (CAA)
     * Extreme Value Theory.
     * Impact of bodily injury claims.
 
-  * March 2016 - August 2016: P&C Actuarial Science (Internship), Pacifica (CAA)
+* March 2016 - August 2016: P&C Actuarial Science (Internship), Pacifica (CAA)
     * Studying the geographical component on a bodily claim on Life Accident Guarantee
     * Challenging GLM, Random Forest and Gradient Boosting for modeling Average Cost and Frequency. Improvement of the loss by two (on Scikit-Learn)
   
