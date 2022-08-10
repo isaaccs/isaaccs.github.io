@@ -6,12 +6,15 @@ author_profile: true
 ---
 ## Udacity
 * Data Scientist Nanodegree
-## Coursera*
+
+## Coursera
 * Deep Learning Specialization
 * Hadoop Platform and Application Framework 
-## Udemy*
+
+## Udemy
 * PyTorch for Deep Learning and Computer Vision 
 * Tensorflow for Beginners 
-## Openclassrooms*
-* Initiez-vous à l'algèbre relationnelle avec le langage SQL
-* Comprendre le Bitcoin et la Blockchain
+
+## [Openclassrooms](https://openclassrooms.com/fr)
+* [Initiez-vous à l'algèbre relationnelle avec le langage SQL](https://openclassrooms.com/fr/course-certificates/4825173789)
+* [Comprendre le Bitcoin et la Blockchain](https://openclassrooms.com/fr/course-certificates/7481543277)
