@@ -11,8 +11,6 @@ redirect_from:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 English
 ======
