@@ -9,7 +9,7 @@
 locale                   : "fr-FR"
 title                    : "Isaac Cohen Sabban"
 title_separator          : "-"
-name                     : &name "Isaac Cohen Sabban/"
+name                     : &name "Isaac Cohen Sabban"
 description              : &description "Applied Scientist at Jellysmack"
 url                      : https://isaaccs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
