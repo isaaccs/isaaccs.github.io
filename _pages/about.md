@@ -13,11 +13,12 @@ English
 ======
 
 
-I am currently working at PacketAI as a Machine Learning Engineer. 
-I use Deep Learning methods for monitoring IT system by analysis logs and metrics. Also, I work on a scalable parsing method for logs by using embedding technics.
+I am currently working at Jellysmack as an Applied Scientist.
+I'm working on a video recommendatıon model for Facebook videos. I use NLP approaches to extract topics from Youtube videos.
 
 Previously, I was a PhD student at LPSM and at Pacifica (Credit Agricole Assurance) under the supervision of Olivier Lopez (LPSM).
 During my PhD thesis, I combined Machine Learning algorithms with survival analysis and Extreme Values Theory for improving the outcome of insurance claims.
+After my PhD, I worked for PacketAI as a Machine Learning Engineer. I used Deep Learning methods for monitoring IT system by analysis logs and metrics. Also, I worked on a scalable parsing method for logs by using embedding technics.
 
 
 Français

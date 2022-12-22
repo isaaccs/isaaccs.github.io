@@ -14,13 +14,21 @@ Education
 * Master Degree in Mathematics and Applications Specialty Mathematical Engineering Financial Engineering and Random Models, Sorbonne University, 2014-2016
 * Certification In Big Data, Sorbonne University, 2015-2016
 * Master Degree in Actuarial Science, ISUP, 2017-2019 (expected)
-* Ph.D in Data Science/Insurance, Sorbonne University, 2017-2020 (expected)
+* Ph.D in Data Science/Insurance, Sorbonne University, 2017-2020 (1st July 2022)
 
 Work experience
 ======
-* August 2020 - Today: Machine Learning Engineer, PacketAI
+
+* May 2022 - Today: Applied Scientist, Jellysmack
+  * Creating and deploying a video recommendatıon model for Facebook videos 
+  * Working on a topic extraction on Youtube videos
+  * Creating data quality analysis function for Time Series 
+  * Creating preprocessing function for Time Series 
+  
+* August 2020 - April 2022: Machine Learning Engineer, PacketAI
   * Creating and deploying an anomaly detection model in log sequence streams (on Tensorflow)
-  * Working on a scalable method for log parsing
+  * Working on a scalable method for log parsing based on an Embedding approach
+  * Working on a python bot for log parsing
   * Creating preprocessing function for Time Series and Log files
 
 * March 2017 - March 2020: PhD, LPSM (Sorbonne University) and Pacifica (CAA)
@@ -38,6 +46,15 @@ dataset containing structured and unstructured data
     * Studying the geographical component on a bodily claim on Life Accident Guarantee
     * Challenging GLM, Random Forest and Gradient Boosting for modeling Average Cost and Frequency. Improvement of the loss by two (on Scikit-Learn)
   
+  
+Side Projects
+======
+* Automatic invoice processing with Tensorflow for [Digipharmacie](https://digipharmacie.fr/).
+* Discord bots for Elrond NFT projects.
+* Learning Rust to deploy Smart contrat on Elrond blockchain.
+* Crypto portfolio tracker in Python.
+
+
 Skills
 ======
 * Programming
