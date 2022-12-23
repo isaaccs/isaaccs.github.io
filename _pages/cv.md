@@ -20,7 +20,7 @@ Work experience
 ======
 
 * May 2022 - Today: Applied Scientist, Jellysmack
-  * Creating and deploying a video recommendatıon model for Facebook videos 
+  * Creating and deploying a video recommendation model for Facebook based on trends
   * Working on a topic extraction on Youtube videos
   * Creating data quality analysis function for Time Series 
   * Creating preprocessing function for Time Series 
@@ -28,7 +28,7 @@ Work experience
 * August 2020 - April 2022: Machine Learning Engineer, PacketAI
   * Creating and deploying an anomaly detection model in log sequence streams (on Tensorflow)
   * Working on a scalable method for log parsing based on an Embedding approach
-  * Working on a python bot for log parsing
+  * Working on a Python bot for log parsing
   * Creating preprocessing function for Time Series and Log files
 
 * March 2017 - March 2020: PhD, LPSM (Sorbonne University) and Pacifica (CAA)
