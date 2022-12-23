@@ -14,7 +14,7 @@ English
 
 
 I am currently working at Jellysmack as an Applied Scientist.
-I’m working on a video recommendation model for Facebook based on trends. Furthermore, I also use NLP approaches to extract topics from YouTube videos.
+I’m working on a video recommendation model for Facebook based on trends. Furthermore, I also used NLP approaches to extract topics from YouTube videos.
 
 Previously, I was a PhD student at LPSM and at Pacifica (Crédit Agricole Assurance) under the supervision of Olivier Lopez (LPSM).
 During my PhD thesis, I combined Machine Learning algorithms with survival analysis and Extreme Values Theory for improving the outcome of insurance claims.
@@ -24,9 +24,9 @@ Français
 ======
 
 
-Je travaille actuellement chez Jellysmack en tant que Applied Scientist.
+Je suis actuellement chez Jellysmack en tant que Applied Scientist.
 Je travaille sur un modèle de recommandation de vidéo pour Facebook basé sur les tendances.
-De plus, j'utilise également des approches de type NLP pour extraire des sujets de vidéos YouTube.
+De plus, j'ai également utilisé des approches de type NLP pour extraire des sujets de vidéos YouTube.
 
 Précédemment, j'étais doctorant au LPSM et à Pacifica (Credit Agricole Assurance) sous la direction d'Olivier Lopez (LPSM).
 Au cours de ma thèse, j'ai combiné des algorithmes de Machine Learning avec des outils issus de l'analyse de survie et de la théorie des valeurs extrêmes pour améliorer le résultat des prédictions de sinistres graves pour une garantie risque corporel.
